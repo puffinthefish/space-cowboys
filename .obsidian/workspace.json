@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "create a link.md",
+                "file": "blahblahblah.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "create a link"
+              "title": "blahblahblah"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "create a link.md",
+                "file": "blahblahblah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for create a link"
+              "title": "Backlinks for blahblahblah"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "create a link.md",
+                "file": "blahblahblah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from create a link"
+              "title": "Outgoing links from blahblahblah"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "create a link.md",
+                "file": "blahblahblah.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of create a link"
+              "title": "Outline of blahblahblah"
             }
           }
         ]
@@ -189,12 +189,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4d302985ccce1c56",
+  "active": "909fdfd41a46591a",
   "lastOpenFiles": [
-    "earth.md",
+    "README.md",
+    "blahblahblah.md",
     "space_cowboys/README.md",
     "space_cowboys",
-    "solrana.md",
-    "create a link.md"
+    "earth.md",
+    "solrana.md"
   ]
 }
