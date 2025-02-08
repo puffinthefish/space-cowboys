@@ -1,0 +1,1 @@
+post-scarcity. everythings great. retrofuturistic kinda? contains humans. sol is [[solrana]]. 
