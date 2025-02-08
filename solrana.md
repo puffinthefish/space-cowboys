@@ -1,1 +1,1 @@
-big frog. swallowed sun.  ![[Pasted image 20250208150009.jpg]] ![[Pasted image 20250208150032.jpg]] these type deal
+big frog. swallowed sun.  ![[Pasted image 20250208150009.jpg]] ![[Pasted image 20250208150032.jpg]]  these type deal
