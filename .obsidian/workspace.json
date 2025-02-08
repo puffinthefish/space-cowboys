@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blahblahblah.md",
+                "file": "solrana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blahblahblah"
+              "title": "solrana"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blahblahblah.md",
+                "file": "solrana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for blahblahblah"
+              "title": "Backlinks for solrana"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blahblahblah.md",
+                "file": "solrana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from blahblahblah"
+              "title": "Outgoing links from solrana"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blahblahblah.md",
+                "file": "solrana.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of blahblahblah"
+              "title": "Outline of solrana"
             }
           }
         ]
@@ -191,11 +191,13 @@
   },
   "active": "909fdfd41a46591a",
   "lastOpenFiles": [
-    "README.md",
+    "Pasted image 20250208150032.jpg",
+    "Pasted image 20250208150009.jpg",
+    "earth.md",
     "blahblahblah.md",
+    "README.md",
     "space_cowboys/README.md",
     "space_cowboys",
-    "earth.md",
     "solrana.md"
   ]
 }
