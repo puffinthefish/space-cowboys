@@ -6,7 +6,7 @@
       {
         "id": "276183d23792ffc8",
         "type": "tabs",
-        "dimension": 76.34228187919463,
+        "dimension": 50.58724832214765,
         "children": [
           {
             "id": "909fdfd41a46591a",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solrana.md",
+                "file": "blahblahblah.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "solrana"
+              "title": "blahblahblah"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "80e6fd3998b00e86",
         "type": "tabs",
-        "dimension": 23.657718120805367,
+        "dimension": 49.41275167785235,
         "children": [
           {
             "id": "95958e3bec347a4b",
@@ -193,12 +193,12 @@
   },
   "active": "909fdfd41a46591a",
   "lastOpenFiles": [
-    "New folder",
-    "Pasted image 20250208150032.jpg",
-    "Pasted image 20250208150009.jpg",
-    "solrana.md",
     "earth.md",
     "blahblahblah.md",
+    "Pasted image 20250208150009.jpg",
+    "solrana.md",
+    "New folder",
+    "Pasted image 20250208150032.jpg",
     "README.md",
     "space_cowboys/README.md",
     "space_cowboys"
