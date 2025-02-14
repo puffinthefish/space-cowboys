@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blahblahblah.md",
+                "file": "session 1/intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blahblahblah"
+              "title": "intro"
             }
           }
         ]
@@ -193,13 +193,17 @@
   },
   "active": "909fdfd41a46591a",
   "lastOpenFiles": [
+    "session 1/gas station.md",
+    "session 1/intro.md",
+    "Pasted image 20250214140655.jpg",
+    "Pasted image 20250208150032.jpg",
+    "Pasted image 20250208150009.jpg",
+    "session 1",
     "earth.md",
     "blahblahblah.md",
-    "Pasted image 20250208150009.jpg",
     "solrana.md",
-    "New folder",
-    "Pasted image 20250208150032.jpg",
     "README.md",
+    "New folder",
     "space_cowboys/README.md",
     "space_cowboys"
   ]
