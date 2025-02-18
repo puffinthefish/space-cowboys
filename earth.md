@@ -1,1 +1,0 @@
-post-scarcity. everythings great. retrofuturistic kinda? contains humans. sol is [[solrana]]. year is 1982 AR. 
