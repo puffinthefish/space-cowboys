@@ -6,5 +6,5 @@ ancient text says 'why was six afraid of seven'
 scribblings contain indecipherable ramblings and mathematical equations, along with what look to be attempts to unscramble the ancient texts.
 crates contain food maybe 
 
-
+gives key for [[room 4]]
 

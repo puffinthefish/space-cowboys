@@ -1,0 +1,3 @@
+read:
+It's been a week since you dragged yourselves out of that dungeon below the gas station. You woke up an hour or two after you got attacked; groggy, but - luckily for you - still in one piece. You made it back to the truck and managed to get yourself back home to the town of Smallest Texas, capital of the Smaller Texas county. You all ended up at (name)'s apartment and passed out for a good day straight. 
+When you woke up, you realised something had been stuffed into one of your pockets: a business card, blank white save for a signature and an address printed on the back. It's a street near the apartment, as you found, but you decided not to check it out just yet.

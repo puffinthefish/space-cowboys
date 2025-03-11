@@ -13,5 +13,9 @@ start bossfight
 
 they need to hit the rat king to deal damage to the rats, but it sends waves of rats at them. 
 
-rat king has 70 hp and cannot attack.
+rat king has 20/70 hp and cannot attack.
 rats move in between every player's turn.
+
+once they get through & kill the rats, they reach the final chamber
+the final chamber contains a pedestal, on which a taser rests. there's a door marked exit. 
+
