@@ -1,0 +1,2 @@
+really REALLY wants to seem more intimidating than she is. is VERY insecure about the name plink plonk. like seven feet tall. has a sick ass robot arm. overconfident about everything. has been to this prison like 20 times cuz she sucks ass at not getting caught for her crimes
+talks in the stereotypical edgy person voice
