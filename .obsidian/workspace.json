@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "session 4/SPACESHIP.md",
+                "file": "npcs/RUBIG NOSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPACESHIP"
+              "title": "RUBIG NOSA"
             }
           }
         ],
@@ -204,10 +204,20 @@
   },
   "active": "4e3c2ca6d7143629",
   "lastOpenFiles": [
-    "session 4/HOME INVASION.md",
-    "session 3/Untitled 1.md",
-    "session 4/PRISON.md",
+    "npcs/JERBIS GLEEK.md",
+    "npcs/vleegus blorpsmatte.md",
+    "npcs/RUBIG NOSA.md",
+    "npcs",
     "session 4/SPACESHIP.md",
+    "session 4/HOLDING CELLS.md",
+    "session 4/HOME INVASION.md",
+    "session 4/OFFICE.md",
+    "session 4/SPACESHIP HANGAR.md",
+    "session 4/GYM.md",
+    "session 4/HALLWAYS.md",
+    "session 4/CAFETARIA.md",
+    "session 4/PRISON.md",
+    "session 3/Untitled 1.md",
     "Halberd 1.webp",
     "helmet-medieval-knight-knight-s-helmet-red-feathers-helmet-medieval-knight-136064065.webp",
     "Halberd.webp",
@@ -228,19 +238,11 @@
     "session 1/truck trip.md",
     "session 1/leave through the back door.md",
     "session 2",
-    "session 1/intro.md",
-    "session 1/kitchen.md",
-    "session 1/gas station.md",
-    "earth.md",
-    "blahblahblah.md",
     "Pasted image 20250214140655.jpg",
     "Pasted image 20250208150032.jpg",
     "Pasted image 20250208150009.jpg",
     "session 1",
-    "solrana.md",
-    "README.md",
     "New folder",
-    "space_cowboys/README.md",
     "space_cowboys"
   ]
 }
