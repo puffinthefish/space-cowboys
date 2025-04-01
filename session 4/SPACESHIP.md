@@ -12,6 +12,6 @@ these are:
 [[PLINK 'THE DESTROYER' 'FACEMASHER' 'NOSEBLASTER' PLONK]]
 
 after they finish talking to the npcs:
-A door opens in the wall and two guards enter. They're human in shape, both roughly six feet tall, but instead of heads they both have glowing, floating shapes that always seem to be looking at you. They're both wearing perfectly neat uniform, with a badge showing the insignia of the Solar Union pinned on the collars of their shirts. 
+A door opens in the wall and two guards enter. They're human in shape, both roughly six feet tall, but instead of heads they both have glowing, floating shapes that always seem to be looking at you. They're both wearing perfectly neat uniform, with a badge showing the insignia of the Frog Union pinned on the collars of their shirts. 
 
-They make a grunt, and the rumbling stops. Everyone is jolted forward, save for the mantis (who somehow remains perfectly still and upright). THe guards lead you through the door, to [[PRISON ENTRANCE]]
+The guard with a glowing pink triangle for a head makes a grunt, and the rumbling stops. Everyone is jolted forward, save for the mantis (who somehow remains perfectly still and upright). THe guards lead you through the door, to [[PRISON ENTRANCE]] 

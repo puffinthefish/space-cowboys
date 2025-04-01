@@ -19,3 +19,4 @@ the four police officers are one relatively experienced one (will be better at f
 
 there are four police officers. they are wearing knight helmets![[helmet-medieval-knight-knight-s-helmet-red-feathers-helmet-medieval-knight-136064065.webp]] and carry halberds ![[Halberd 1.webp]]
 the players CAN attempt to fight off the police officers but then they'll get hunted down by more.
+

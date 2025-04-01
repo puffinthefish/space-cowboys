@@ -8,4 +8,4 @@ gnome goes with reimika
 lemon goes with morrigan
 hydro goes with tazer
 
-As you hit the concrete floor, you suddenly notice that the sound from outside seems to be muffled.
+As you hit the concrete floor, you suddenly notice that the sound from outside seems to be muffled. The guard with the circle-head leaves, but the other stands outside in the hallway, keycard stuffed into their pocket. 
