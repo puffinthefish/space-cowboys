@@ -42,8 +42,7 @@ _**Attack.**_ The emissary teleports up to 30 feet to an unoccupied space it ca
 
 _**Warp Space (Costs 2 Actions).**_ The emissary causes the ground in a 20-foot square that it can see within 90 feet of it to turn into teeth and maws until the start of its next turn. The area becomes difficult terrain for the duration. Any creature takes 3 (1d6) piercing damage for each 10 feet it moves on this terrain.
 
-_**Mind Cloud (Costs 3 Actions).**_ The emissary unleashes a psychic wave. Each creature within 30 feet of the emissary must succeed on a DC 23 Wisdom saving throw or take 32 (5d12) psychic damage. In addition, every spell ends on creatures and objects of the emissary's choice in that area.
-
+_**Mind Cloud (Costs 3 Actions).**_ The emissary unleashes a psychic wave. Each creature within 30 feet of the emissary must succeed on a DC 23 Wisdom saving throw or take 32 (5d12) psychic damage. In addition, every spell ends on creatures and objects of the emissary's choice in that area 
 ### Description
 
 An emissary's greater form sheds all pretense of being part of a plane's reality and openly mocks it. A destructive titan, this form rises in a 25-foot-tall pillar of violent flesh amalgamating the meat and voices of every form the emissary has ever mimicked. Manifestations of alien hunger erupt from this horror in waves of ravenous organs and mind-breaking psychic assaults.
