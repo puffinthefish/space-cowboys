@@ -1,0 +1,2 @@
+The automatic doors slide open to reveal a room packed wall to wall with people. The mass is so thick you can barely make out any individuals, but you can hear thousands of voices shouting and swearing in all the languages under the sun(s). 
+Your flight is at Gate 3553.  To your right is Gate 1. Good luck! 
