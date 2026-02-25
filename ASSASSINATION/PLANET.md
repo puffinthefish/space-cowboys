@@ -1,3 +1,5 @@
+part of [[ASSASSINATION]]
+
 earthlike world. named ZLEEBUS PRIME
 similar life to earth, but plants are purple instead of green and most animals have an eight legged body plan 
 

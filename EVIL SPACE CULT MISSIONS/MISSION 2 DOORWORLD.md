@@ -1,3 +1,5 @@
+[[SPACE CULT]] MISSION
+
 artificial planet of unknown origin. its surface has anomalous properties, and whenever a probe is sent, its signal duplicates and fragments. they are not told to plant a bomb this time, but instead reach and detonate the planet's core. they are given a vehicle with tunneling capabilities and a gun that shoots blasts that they are told will destroy the core. ![[[WARDEN ONLY] - GADER'EL ALPHA C-4.png]]
 the planet is covered in doors. the doors have no consistent properties, just that they are doors. they seem to come from all different planets and cultures and time periods, and are only similar in that they possess a doorway and something to close them. 
 
