@@ -26,14 +26,10 @@
             "id": "f9bfffd4ed59c926",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASSASSINATION/TARGET.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TARGET"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -50,12 +46,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASSASSINATION/SECURITY GUARDS.md",
+                "file": "ASSASSINATION/ASSASSINATION BUILDING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SECURITY GUARDS"
+              "title": "ASSASSINATION BUILDING"
             }
           }
         ]
@@ -221,34 +217,34 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f9bfffd4ed59c926",
+  "active": "95958e3bec347a4b",
   "lastOpenFiles": [
-    "ASSASSINATION/Untitled.md",
     "ASSASSINATION/TARGET.md",
+    "ASSASSINATION/PLANET.md",
+    "ASSASSINATION/PREAMBLE STUFF.md",
     "ASSASSINATION/SECURITY GUARDS.md",
     "ASSASSINATION/ASSASSINATION BUILDING.md",
     "ASSASSINATION/ASSASSINATION.md",
     "ASSASSINATION/AIRPORT.md",
-    "ASSASSINATION/PREAMBLE STUFF.md",
-    "ASSASSINATION/PLANET.md",
-    "SECRET ORGANISATION BASE/BASE.md",
-    "session 4/SPACESHIP HANGAR.md",
+    "Pasted image 20260225141133.png",
+    "EVIL SPACE CULT MISSIONS/SPACE CULT.md",
+    "session 4/CAFETARIA.md",
+    "session 4/HALLWAYS.md",
+    "session 4/OFFICE.md",
     "session 4/SPACESHIP.md",
+    "session 4/SPACESHIP HANGAR.md",
+    "ASSASSINATION/Untitled.md",
+    "SECRET ORGANISATION BASE/BASE.md",
     "session 4/PRISON ENTRANCE.md",
     "random notes/MAKE SOMEONE ASK ABOUT REIMIKA'S WATCH.md",
-    "session 4/CAFETARIA.md",
     "session 1/attempt to get past the people at the front.md",
     "SECRET ORGANISATION BASE/SCIENCE LAB.md",
     "SECRET ORGANISATION BASE/INCINERATOR ROOM.md",
     "SECRET ORGANISATION BASE/FORGE ROOM.md",
     "SECRET ORGANISATION BASE/CATHEDRAL SHIP.md",
     "SECRET ORGANISATION BASE/BIOLOGY ROOM.md",
-    "EVIL SPACE CULT MISSIONS/SPACE CULT.md",
     "EVIL SPACE CULT MISSIONS/MISSION 1 EVIL FROZEN PLANET.md",
     "EVIL SPACE CULT MISSIONS/MISSION 2 DOORWORLD.md",
-    "ASSASSINATION/LOCATION.md",
-    "npcs/JERBIS GLEEK.md",
-    "npcs/PLINK 'THE DESTROYER' 'FACEMASHER' 'NOSEBLASTER' PLONK.md",
     "map2.png",
     "map.png",
     "ASSASSINATION",
@@ -270,7 +266,6 @@
     "session 4",
     "session 3",
     "Pasted image 20250214140655.jpg",
-    "Pasted image 20250208150032.jpg",
-    "Pasted image 20250208150009.jpg"
+    "Pasted image 20250208150032.jpg"
   ]
 }
