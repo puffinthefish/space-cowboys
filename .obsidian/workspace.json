@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "ae14ce7da2a4ab82",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ccbd91de1375b6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "697d094610357b13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASSASSINATION/TARGET.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TARGET"
+            }
+          },
+          {
+            "id": "22597bbd18da8b3e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb2c12f17f108818",
+    "type": "split",
+    "children": [
+      {
+        "id": "196cd2a35636ce12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed90a99113ee73e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "874bea098d170cec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "20d3d3b0b82b8a00",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "213145b7bee4bd05",
+    "type": "split",
+    "children": [
+      {
+        "id": "03dcee08b53b1c59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cee6b2ad3d1c1072",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ASSASSINATION/TARGET.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TARGET"
+            }
+          },
+          {
+            "id": "5eaeaaf0f74cb472",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ASSASSINATION/TARGET.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TARGET"
+            }
+          },
+          {
+            "id": "de0d03c4b0f29400",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5de9dd74e0e502c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ASSASSINATION/TARGET.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TARGET"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "22597bbd18da8b3e",
+  "lastOpenFiles": [
+    "[WARDEN ONLY] - BALDR NP-6550.png",
+    "Halberd 1.webp",
+    "npcs/vleegus blorpsmatte.md",
+    "npcs/RUBIG NOSA.md",
+    "npcs/PLINK 'THE DESTROYER' 'FACEMASHER' 'NOSEBLASTER' PLONK.md",
+    "npcs/JERBIS GLEEK.md",
+    "npcs",
+    "EVIL SPACE NAZI MISSIONS/MISSION 2 DOORWORLD.md",
+    "EVIL SPACE NAZI MISSIONS/MISSION 1 EVIL FROZEN PLANET.md",
+    "EVIL SPACE NAZI MISSIONS",
+    "BOSS FIGHT/THE ENCAMPMENT.md",
+    "BOSS FIGHT/THE (FORMER) CAFETERIA.md",
+    "BOSS FIGHT/GREATER STAR SPAWN EMISSARY (LEVEL 3 VERSION).md",
+    "BOSS FIGHT",
+    "ASSASSINATION/TARGET.md",
+    "ASSASSINATION",
+    "ARC TWO/SESSION 1.md",
+    "ARC TWO",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Pasted image 20250214140655.jpg",
+    "Pasted image 20250208150032.jpg",
+    "Pasted image 20250208150009.jpg",
+    "helmet-medieval-knight-knight-s-helmet-red-feathers-helmet-medieval-knight-136064065.webp",
+    "Halberd.webp",
+    "[WARDEN ONLY] - GADER'EL ALPHA C-4.png",
+    "session 4/SPACESHIP.md",
+    "session 4/SPACESHIP HANGAR.md",
+    "session 4/PRISON ENTRANCE.md",
+    "session 4/OFFICE.md",
+    "session 4/HOLDING CELLS.md",
+    "session 4/HOME INVASION.md",
+    "session 4/GYM.md",
+    "session 4/HALLWAYS.md",
+    "session 4/CAFETARIA.md",
+    "session 4",
+    "session 3/streets.md",
+    "session 3/someone's house.md",
+    "session 3/Untitled 1.md",
+    "session 3",
+    "session 2/room 4.md",
+    "session 2",
+    "session 1",
+    "SECRET ORGANISATION BASE"
+  ]
+}
