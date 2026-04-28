@@ -11,10 +11,14 @@
             "id": "697d094610357b13",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PIRATE ATTACK!!/BEGINNING.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "BEGINNING"
             }
           }
         ]
@@ -168,6 +172,15 @@
   },
   "active": "697d094610357b13",
   "lastOpenFiles": [
+    "ARC TWO/SESSION 1.md",
+    "PIRATE ATTACK!!/BEGINNING.md",
+    "PIRATE ATTACK!!",
+    "ASSASSINATION/TARGET.md",
+    "ASSASSINATION/SECURITY GUARDS.md",
+    "ASSASSINATION/PLANET.md",
+    "ASSASSINATION/LOCATION.md",
+    "ASSASSINATION/ASSASSINATION.md",
+    "BOSS FIGHT/THE (FORMER) CAFETERIA.md",
     "Untitled.md",
     "Untitled.canvas",
     "Pasted image 20260225141133.png",
@@ -200,21 +213,12 @@
     "session 2/room 2.md",
     "session 2/caverns.md",
     "session 2",
-    "session 1/weird guy encounter.md",
-    "session 1/truck trip.md",
-    "session 1/leave through the back door.md",
-    "session 1/kitchen.md",
-    "session 1/intro.md",
-    "session 1/gas station.md",
-    "session 1/attempt to get past the people at the front.md",
     "session 1",
-    "SECRET ORGANISATION BASE/SCIENCE LAB.md",
     "SECRET ORGANISATION BASE",
     "random notes",
     "npcs",
     "EVIL SPACE CULT MISSIONS",
     "BOSS FIGHT",
-    "ASSASSINATION",
     "space-cowboys-main/Untitled.canvas"
   ]
 }
