@@ -1,4 +1,6 @@
-scientist fridge man tells them theyve been put on . special operations or something 
+[[SPACE CULT]] MISSION
+
+[[Gürt]] tells them theyve been put on . special operations or something 
 
 they get sent to ![[[WARDEN ONLY] - BALDR NP-6550.png]] this place
 its freezing, so they have to use like space suit type stuff to not freeze to death. they CAN be broken but not easily

@@ -11,30 +11,13 @@
             "id": "697d094610357b13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASSASSINATION/TARGET.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TARGET"
-            }
-          },
-          {
-            "id": "22597bbd18da8b3e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,51 +166,55 @@
       "bases:Create new base": false
     }
   },
-  "active": "22597bbd18da8b3e",
+  "active": "697d094610357b13",
   "lastOpenFiles": [
-    "[WARDEN ONLY] - BALDR NP-6550.png",
-    "Halberd 1.webp",
-    "npcs/vleegus blorpsmatte.md",
-    "npcs/RUBIG NOSA.md",
-    "npcs/PLINK 'THE DESTROYER' 'FACEMASHER' 'NOSEBLASTER' PLONK.md",
-    "npcs/JERBIS GLEEK.md",
-    "npcs",
-    "EVIL SPACE NAZI MISSIONS/MISSION 2 DOORWORLD.md",
-    "EVIL SPACE NAZI MISSIONS/MISSION 1 EVIL FROZEN PLANET.md",
-    "EVIL SPACE NAZI MISSIONS",
-    "BOSS FIGHT/THE ENCAMPMENT.md",
-    "BOSS FIGHT/THE (FORMER) CAFETERIA.md",
-    "BOSS FIGHT/GREATER STAR SPAWN EMISSARY (LEVEL 3 VERSION).md",
-    "BOSS FIGHT",
-    "ASSASSINATION/TARGET.md",
-    "ASSASSINATION",
-    "ARC TWO/SESSION 1.md",
-    "ARC TWO",
     "Untitled.md",
     "Untitled.canvas",
+    "Pasted image 20260225141133.png",
     "Pasted image 20250214140655.jpg",
     "Pasted image 20250208150032.jpg",
     "Pasted image 20250208150009.jpg",
+    "map2.png",
+    "map.png",
     "helmet-medieval-knight-knight-s-helmet-red-feathers-helmet-medieval-knight-136064065.webp",
     "Halberd.webp",
+    "Halberd 1.webp",
+    "Gürt.md",
     "[WARDEN ONLY] - GADER'EL ALPHA C-4.png",
-    "session 4/SPACESHIP.md",
     "session 4/SPACESHIP HANGAR.md",
-    "session 4/PRISON ENTRANCE.md",
+    "session 4/SPACESHIP.md",
     "session 4/OFFICE.md",
-    "session 4/HOLDING CELLS.md",
+    "session 4/PRISON ENTRANCE.md",
     "session 4/HOME INVASION.md",
-    "session 4/GYM.md",
+    "session 4/HOLDING CELLS.md",
     "session 4/HALLWAYS.md",
+    "session 4/GYM.md",
     "session 4/CAFETARIA.md",
     "session 4",
-    "session 3/streets.md",
     "session 3/someone's house.md",
+    "session 3/streets.md",
     "session 3/Untitled 1.md",
     "session 3",
     "session 2/room 4.md",
+    "session 2/room 3.md",
+    "session 2/room 2.md",
+    "session 2/caverns.md",
     "session 2",
+    "session 1/weird guy encounter.md",
+    "session 1/truck trip.md",
+    "session 1/leave through the back door.md",
+    "session 1/kitchen.md",
+    "session 1/intro.md",
+    "session 1/gas station.md",
+    "session 1/attempt to get past the people at the front.md",
     "session 1",
-    "SECRET ORGANISATION BASE"
+    "SECRET ORGANISATION BASE/SCIENCE LAB.md",
+    "SECRET ORGANISATION BASE",
+    "random notes",
+    "npcs",
+    "EVIL SPACE CULT MISSIONS",
+    "BOSS FIGHT",
+    "ASSASSINATION",
+    "space-cowboys-main/Untitled.canvas"
   ]
 }
