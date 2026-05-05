@@ -35,9 +35,23 @@
               "icon": "lucide-file",
               "title": "SECURITY GUARDS"
             }
+          },
+          {
+            "id": "bdf17a0bb1b6a4f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASSASSINATION/SECURITY GUARDS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SECURITY GUARDS"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "80e6fd3998b00e86",
@@ -217,10 +231,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f9bfffd4ed59c926",
+  "active": "bdf17a0bb1b6a4f3",
   "lastOpenFiles": [
-    "ASSASSINATION/ASSASSINATION BUILDING.md",
+    "Gürt.md",
+    "PIRATE ATTACK!!/BEGINNING.md",
+    "Untitled 1.md",
     "ASSASSINATION/SECURITY GUARDS.md",
+    "PIRATE ATTACK!!",
+    "ASSASSINATION/ASSASSINATION BUILDING.md",
     "ASSASSINATION/ASSASSINATION.md",
     "ASSASSINATION/LOCATION.md",
     "ASSASSINATION/PLANET.md",
@@ -243,9 +261,6 @@
     "SECRET ORGANISATION BASE/INCINERATOR ROOM.md",
     "SECRET ORGANISATION BASE/FORGE ROOM.md",
     "SECRET ORGANISATION BASE/CATHEDRAL SHIP.md",
-    "SECRET ORGANISATION BASE/BIOLOGY ROOM.md",
-    "EVIL SPACE CULT MISSIONS/MISSION 1 EVIL FROZEN PLANET.md",
-    "EVIL SPACE CULT MISSIONS/MISSION 2 DOORWORLD.md",
     "map2.png",
     "map.png",
     "ASSASSINATION",
@@ -265,7 +280,6 @@
     "Halberd.webp",
     "random notes",
     "session 4",
-    "session 3",
     "Pasted image 20250214140655.jpg",
     "Pasted image 20250208150032.jpg"
   ]
