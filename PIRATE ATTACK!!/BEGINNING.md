@@ -5,4 +5,4 @@ he tells them that something VERY BAD has happened . there is something BIG appr
 they sit there watching the radar until they receive a transmission. transmission says WE FINALLY FOUND YOU . BASTARDS
 
 the camera turns on and they see:
-A shape comes into view on the screen. It's a ship, 
+A shape comes into view on the screen. It's a ship of Earth design, but not one typically found in space. A galleon. At least a hundred metres across. 
